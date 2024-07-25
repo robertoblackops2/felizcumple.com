@@ -3,8 +3,7 @@ body{
     justify-content: center;
     align-items: center;
     min-height: 100vh;
-    background-image: url(fiesta.jpg);
-    background-size: cover;
+     background-color: #000666;
     overflow: hidden;
     font-family: sans-serif;
 }
@@ -93,6 +92,6 @@ body{
     text-align: center;
     z-index: -1;
     left: 10px;
-    color: blueviolet;
+    color: #fff;
     text-shadow: 0 0 10px #020202;
 }
